@@ -1,0 +1,64 @@
+* {
+    font-family: 'DM Sans', normal;
+    color: #181717;
+}
+
+.block {
+    padding-left: 136px;
+    padding-right: 132px;
+    padding-top: 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.att {
+    width: 64px;
+    height: 48px;
+    left: calc(50% - 64px/2 - 528px);
+    top: 95px;
+
+    /* font-family: 'DM Sans';
+font-style: normal; */
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 97.2%;
+    /* or 49px */
+
+    letter-spacing: -0.03em;
+
+    /* Main Black */
+
+    color: #181717;
+
+}
+
+.references {
+
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 120%;
+    /* or 26px */
+    text-decoration: none;
+    letter-spacing: -0.03em;
+    padding: 10px;
+}
+
+.block1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.photo {
+    background: #606060;
+    height: 405.7810944650457px;
+    width: 457.65922200769717px;
+    left: 1245.780517578125px;
+    top: 290px;
+
+
+}
